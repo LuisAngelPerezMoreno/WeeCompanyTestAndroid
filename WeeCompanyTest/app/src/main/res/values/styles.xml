@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SplashTheme" parent="Theme.WeeCompanyTest">
+        <item name="android:windowBackground">@drawable/splashscreen_less_v31</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.Backdrop">
+        <item name="cornerFamilyTopLeft">rounded</item>
+        <item name="cornerSizeTopLeft">16dp</item>
+        <item name="cornerFamilyTopRight">rounded</item>
+        <item name="cornerSizeTopRight">16dp</item>
+        <item name="cornerFamilyBottomRight">cut</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+        <item name="cornerFamilyBottomLeft">cut</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+    </style>
+</resources>

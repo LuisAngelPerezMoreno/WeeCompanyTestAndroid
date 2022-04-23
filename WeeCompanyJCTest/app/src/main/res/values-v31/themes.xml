@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.WeeCompanyJCTest" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#293b79</item>
+        <item name="android:windowSplashScreenBackground">#293b79</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splashscreen_sup_v31</item>
+    </style>
+</resources>

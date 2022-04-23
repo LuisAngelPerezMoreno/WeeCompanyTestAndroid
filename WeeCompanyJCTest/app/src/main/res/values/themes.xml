@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SplashTheme" parent="Theme.WeeCompanyJCTest">
+        <item name="android:windowBackground">@drawable/splashscreen_less_v31</item>
+    </style>
+    <style name="Theme.WeeCompanyJCTest" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#293b79</item>
+    </style>
+</resources>
